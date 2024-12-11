@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CGProLiveApp.Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+be127ae4295ce3ae9d7875b2d134f793ea5cbfba")]
 [assembly: System.Reflection.AssemblyProductAttribute("CGProLiveApp.Server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CGProLiveApp.Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
