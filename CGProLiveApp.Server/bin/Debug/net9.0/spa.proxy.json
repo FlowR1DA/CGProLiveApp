@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:54710",
+"RedirectUrl": "",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "V:\\source\\CGProLiveApp\\CGProLiveApp.Server\\..\\cgproliveapp.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

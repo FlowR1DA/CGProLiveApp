@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "uE3Lm5fN4N0=",
+  "success": true,
+  "projectFilePath": "V:\\source\\CGProLiveApp\\CGProLiveApp.Server\\CGProLiveApp.Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\secu\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.0\\microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
+    "C:\\Users\\secu\\.nuget\\packages\\microsoft.aspnetcore.spaproxy\\9.0.0\\microsoft.aspnetcore.spaproxy.9.0.0.nupkg.sha512",
+    "C:\\Users\\secu\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512",
+    "C:\\Users\\secu\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512",
+    "C:\\Users\\secu\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.26100.54\\microsoft.windows.sdk.net.ref.10.0.26100.54.nupkg.sha512"
+  ],
+  "logs": []
+}

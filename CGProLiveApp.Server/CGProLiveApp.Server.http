@@ -1,0 +1,6 @@
+@CGProLiveApp.Server_HostAddress = http://localhost:5299
+
+GET {{CGProLiveApp.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

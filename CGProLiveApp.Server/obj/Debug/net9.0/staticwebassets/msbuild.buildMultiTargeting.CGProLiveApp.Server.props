@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CGProLiveApp.Server.props" />
+</Project>

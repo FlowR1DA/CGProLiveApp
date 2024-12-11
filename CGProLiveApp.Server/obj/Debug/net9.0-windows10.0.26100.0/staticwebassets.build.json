@@ -1,0 +1,24 @@
+{
+  "Version": 1,
+  "Hash": "TNDBvwqjTwSByN44mGVYr+jZhndW1XLmbodHBhAXfoE=",
+  "Source": "CGProLiveApp.Server",
+  "BasePath": "_content/CGProLiveApp.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "V:\\source\\CGProLiveApp\\cgproliveapp.client\\cgproliveapp.client.esproj",
+      "Version": 2,
+      "Source": "cgproliveapp.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
